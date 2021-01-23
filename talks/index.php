@@ -99,8 +99,6 @@
                 Home<span class="caret"></span></a>
                     <ul class="dropdown-menu">
                     <li><a href="../index.html#intro">Introduction</a></li>
-                        <li><a href="../bio.html">Short Bio</a></li>
-                        <li><a href="../cv.html">CV (Web)</a></li>
                         <li><a target="_blank" href="../zeinalipour.pdf">CV (PDF)</a></li>
                     </ul>
                 </li>
